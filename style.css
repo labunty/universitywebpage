@@ -19,7 +19,7 @@ section {
 }
 
 main {
-
+align: center
 }
 
 aside {
@@ -41,25 +41,24 @@ footer {
 }
 
 header, section, aside, nav, footer {
-  padding: 20px;
+  padding: 15px;
 }
 
 /* header and footer */
 
 header, footer {
-  border-top: 5px solid #a66;
-  border-bottom: 5px solid #a66;
+  border-top: 5px solid #a63;
+  border-bottom: 5px solid #a63;
 }
 
 /* WRITE YOUR CODE BELOW HERE */
 html{
   font-family: 'Crimson Text', serif;
-  font-size: ;
+  font-size: 10px;
  }
 
  h1,h2{
-  font-family: 'Great Vibes', cursive;
-   font-size: ;
+  font-family: 'Amiri', serif;
  }
 
  h1 {
@@ -79,7 +78,7 @@ p, li {
   font-size: 1.6 rem;
   line-height: 1.5 ;
   letter-spacing: 0.5px;
-  word-spacing: 3px;
+  word-spacing: 2px;
 }
 
 a{
@@ -87,13 +86,13 @@ outline: none;
 }
 
 a[href*="http"] {
-  padding-right: 19px;
+  padding-right: 15px;
   background:
-  background-size: 16px 16px;
+  background-size: 15px 15px;
 }
 
 a:link, a:visited {
-  color: #a66;
+  color: #a63;
 }
 
 a:focus, a:hover {
@@ -108,9 +107,6 @@ a:active {
                0px 0px 4px black;
 }
 
-/* lists: extra margin top and bottom to make it
-always have the same spacing as with paragraphs */
-
 ul, ol {
   margin: 1.6rem 0;
 }
@@ -120,7 +116,7 @@ ul {
 }
 
 ol {
-  list-style-type: lower-latin;
+  list-style-type: lower-lower-roman;
 }
 
 /* nav menu */
@@ -141,13 +137,13 @@ nav li a {
   width: 100%;
   line-height: 3;
   text-align: center;
-  font-size: 2.5rem;
-  border: 1px solid #a66;
+  font-size: 2.0rem;
+  border: 1px solid #a63;
 }
 
 nav li a:focus, nav li a:hover {
   color: white;
-  background: #a66;
+  background: #a63;
 }
 
 nav li a:active {
