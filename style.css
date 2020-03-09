@@ -37,7 +37,7 @@ nav {
 display: flex;
 flex-wrap: wrap;
 justify-content: left;
-flex-direction: column;
+flex-direction: row-reverse;
 width: 30%;
 flex: 180px;
 
