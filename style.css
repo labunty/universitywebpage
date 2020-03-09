@@ -28,12 +28,14 @@ flex-wrap: wrap;
 
 aside {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
 }
 
 nav {
   display: flex;
-  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
 
 }
 
