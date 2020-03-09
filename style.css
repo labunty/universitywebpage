@@ -35,8 +35,9 @@ aside {
 nav {
   display: flex;
   justify-content: flex-end;
+  align-content:stretch;
   flex-wrap: wrap;
-  width: 30%;
+  flex-direction: column;
 
 }
 
@@ -86,6 +87,7 @@ p, li {
   line-height: 1.5 ;
   letter-spacing: 0.5px;
   word-spacing: 2px;
+  padding: 0px;
 }
 
 a{
