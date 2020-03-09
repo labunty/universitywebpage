@@ -59,6 +59,8 @@ header, footer {
 
 /* WRITE YOUR CODE BELOW HERE */
 
+
+/* type styling */
 html{
   font-family: 'Crimson Text', serif;
   font-size: 10px;
@@ -89,13 +91,17 @@ p, li {
   word-spacing: 2px;
   padding: 0px;
 }
-
-a{
+/* link stuff*/
+a {
 outline: none;
 }
 
 a:link, a:visited {
   color: #a66;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
 }
 
 a:active {
@@ -104,6 +110,8 @@ a:active {
                0px 0px 2px darkblue,
                0px 0px 2px blue;
 }
+
+/* lists*/
 
 ul, ol {
   margin: 2rem ;
