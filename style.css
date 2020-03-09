@@ -39,7 +39,7 @@ nav {
 display: flex;
 flex-wrap: wrap;
 justify-content: left;
-width: 50%;
+align-content: stretch;
 
 }
 
