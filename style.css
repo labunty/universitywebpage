@@ -27,6 +27,9 @@ flex-wrap: wrap;
 }
 
 aside {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 nav {
