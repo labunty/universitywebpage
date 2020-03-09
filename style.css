@@ -29,14 +29,11 @@ flex-wrap: wrap;
 aside {
   display: flex;
   flex-wrap: wrap;
-  width: 50%;
-  flex: 200px;
 }
 
 nav {
   display: flex;
   justify-content: flex-end;
-  align-content:stretch;
   flex-wrap: wrap;
   flex-direction: column;
 
