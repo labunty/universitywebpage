@@ -38,7 +38,7 @@ aside {
 nav {
 display: flex;
 flex-wrap: wrap;
-justify-content: left;
+justify-content: right;
 flex-direction: row-reverse;
 width: 30%;
 flex: 180px;
