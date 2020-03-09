@@ -21,17 +21,19 @@ section {
 
 main {
 display: flex;
-flex-direction: row
-flex-wrap: nowrap;
+flex-direction: row;
+flex-wrap: wrap;
 
 }
 
 aside {
+  display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
 }
 
 nav {
+  display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
   width: 30%;
