@@ -39,7 +39,7 @@ nav {
 display: flex;
 flex-wrap: wrap;
 justify-content: left;
-flex-direction: row-reverse;
+width: 50%;
 
 }
 
