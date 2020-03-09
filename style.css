@@ -36,7 +36,8 @@ aside {
 }
 
 nav {
-
+  width: 40%;
+  flex: 180px;
 }
 
 footer {
