@@ -37,7 +37,7 @@ aside {
 
 nav {
 display: flex;
-flex-wrap: nowrap;
+flex-wrap: wrap;
 align-items: flex-start;
 justify-content: flex-end
 
