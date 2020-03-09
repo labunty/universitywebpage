@@ -38,6 +38,9 @@ display: flex;
 flex-wrap: wrap;
 justify-content: left;
 flex-direction: column;
+width: 30%;
+flex: 180px;
+
 }
 
 footer {
