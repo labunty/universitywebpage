@@ -40,6 +40,8 @@ nav {
   flex-wrap: wrap;
   flex-direction: row;
   align-items: flex-start;
+  width: 40%;
+  flex: 180px;
 }
 
 footer {
