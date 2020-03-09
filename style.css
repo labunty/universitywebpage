@@ -28,8 +28,9 @@ flex-wrap: wrap;
 
 aside {
   display: flex;
-  flex-direction: column;
   flex-wrap: wrap;
+  width: 40%;
+  flex: 180px;
 }
 
 nav {
