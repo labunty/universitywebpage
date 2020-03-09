@@ -38,6 +38,7 @@ aside {
 nav {
   display: flex;
   flex-wrap: wrap;
+  align-content: flex-start;
   width: 40%;
   flex: 180px;
 }
