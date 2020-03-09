@@ -29,7 +29,6 @@ flex-wrap: wrap;
 aside {
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;
 }
 
 nav {
