@@ -36,8 +36,8 @@ aside {
 nav {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
-  width: 50%;
+justify-content: left;
+align-items: stretch;
 
 }
 
