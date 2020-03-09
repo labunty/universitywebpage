@@ -39,6 +39,8 @@ nav {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row-reverse;
+  width: 40%;
+  flex: 200px;
 }
 
 footer {
