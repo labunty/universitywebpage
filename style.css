@@ -28,8 +28,8 @@ flex-wrap: wrap;
 
 aside {
   display: flex;
-  align-items: flex-start;
   flex-wrap: wrap;
+  flex-direction: column;
 }
 
 nav {
